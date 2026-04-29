@@ -45,7 +45,7 @@ It highlights job demand, salary trends, roles, and hiring platforms.
 
 ## Dashboard Preview
 
-![Data Jobs Dashboard](Data_jobs_dashboard.png)
+![Power BI Dashboard](Power%20BI%20big%20Project..png)
 
 ---
 
