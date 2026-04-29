@@ -45,7 +45,7 @@ It highlights job demand, salary trends, roles, and hiring platforms.
 
 ## 📸 Preview
 
-_Add your dashboard screenshot here_
+![Dashboard]("C:\Users\Mustafa\Desktop\Data_jobs_dashboard.png")
 
 ---
 
